@@ -1,5 +1,5 @@
 <aside>
-  **Note:** query params are an experimental feature. You must be using a very recent canary build of Ember, and enable them by setting `Ember.FEATURES["query-params"] = true;` immediately after Ember is loaded.
+  **Note:** query params are an experimental feature. You must be using a very recent canary build of Ember, and enable the feature flag `query-params`. For more info on enabling feature flags visit [http://emberjs.com/guides/configuring-ember/feature-flags/](http://emberjs.com/guides/configuring-ember/feature-flags/).
 </aside>
 
 
